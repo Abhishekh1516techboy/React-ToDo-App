@@ -94,7 +94,7 @@ This To-Do App is perfect for both **personal task management** and as a **learn
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/React-ToDo-App.git
+   git clone https://github.com/abhishekh1516techboy/React-ToDo-App.git
    cd React-ToDo-App
    ```
 2. Install dependencies:
